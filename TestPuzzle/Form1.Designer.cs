@@ -59,7 +59,7 @@
             // 
             // button1
             // 
-            this.button1.BackColor = System.Drawing.Color.Gold;
+            this.button1.BackColor = System.Drawing.Color.DarkGoldenrod;
             this.button1.Location = new System.Drawing.Point(12, 12);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 75);
@@ -131,7 +131,7 @@
             // 
             // button7
             // 
-            this.button7.BackColor = System.Drawing.Color.Gold;
+            this.button7.BackColor = System.Drawing.Color.DarkGoldenrod;
             this.button7.Location = new System.Drawing.Point(93, 93);
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(75, 75);
@@ -203,7 +203,7 @@
             // 
             // button13
             // 
-            this.button13.BackColor = System.Drawing.Color.Gold;
+            this.button13.BackColor = System.Drawing.Color.DarkGoldenrod;
             this.button13.Location = new System.Drawing.Point(174, 174);
             this.button13.Name = "button13";
             this.button13.Size = new System.Drawing.Size(75, 75);
@@ -275,7 +275,7 @@
             // 
             // button19
             // 
-            this.button19.BackColor = System.Drawing.Color.Gold;
+            this.button19.BackColor = System.Drawing.Color.DarkGoldenrod;
             this.button19.Location = new System.Drawing.Point(255, 255);
             this.button19.Name = "button19";
             this.button19.Size = new System.Drawing.Size(75, 75);
@@ -347,7 +347,7 @@
             // 
             // button25
             // 
-            this.button25.BackColor = System.Drawing.Color.Gold;
+            this.button25.BackColor = System.Drawing.Color.DarkGoldenrod;
             this.button25.Location = new System.Drawing.Point(336, 336);
             this.button25.Name = "button25";
             this.button25.Size = new System.Drawing.Size(75, 75);
